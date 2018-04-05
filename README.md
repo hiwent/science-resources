@@ -4,9 +4,9 @@ This list is updating periodically.
 
 https://orcid.org/
 
-http://www.researcherid.com/
-
 https://scholar.google.ru/
+
+http://www.researcherid.com/
 
 https://elibrary.ru/
 
