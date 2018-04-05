@@ -6,13 +6,16 @@ https://orcid.org/
 
 http://www.researcherid.com/
 
+https://scholar.google.ru/
+
+https://elibrary.ru/
+
 https://osf.io/
 
 https://www.scitation.org/
 
 https://www.mendeley.com/
 
-https://elibrary.ru/
 
 Open Data:<br>
 https://www.kaggle.com/
