@@ -10,12 +10,13 @@ http://www.researcherid.com/
 
 https://elibrary.ru/
 
-https://osf.io/
-
 https://www.scitation.org/
 
 https://www.mendeley.com/
 
+https://osf.io/
+
+https://project-thor.eu/
 
 Open Data:<br>
 https://www.kaggle.com/
