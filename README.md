@@ -18,5 +18,7 @@ https://osf.io/
 
 https://project-thor.eu/
 
+https://www.doi.org/
+
 Open Data:<br>
 https://www.kaggle.com/
